@@ -1,0 +1,1 @@
+./setup -auto SCAP -3d -nxb=16 -nyb=16 -nzb=16 +hdf5typeio species=cham,targ +mtmmmt +asynclaser +usm3t +mgd mgd_meshgroups=6 -parfile=3d.par +mpi3 -with-unit=physics/Hydro/HydroMain/unsplit/MHD_StaggeredMesh/modified_Biermann_simple
